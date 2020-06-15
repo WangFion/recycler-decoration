@@ -1,4 +1,4 @@
-package com.wf.test.recycle.decoration;
+package com.wf.recycle.decoration;
 
 import android.graphics.Canvas;
 import android.graphics.Rect;
