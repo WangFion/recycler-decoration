@@ -1,0 +1,3 @@
+include ':recycle-decoration'
+include ':app'
+rootProject.name = "SimpleRecycleDecoration"
