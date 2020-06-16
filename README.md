@@ -23,10 +23,10 @@ dependencies {
 
 **Third, Add item decoration to recyclerview.**
 ```kotlin
-//1.横竖相同
-recyclerView.addItemDecoration(SimpleRecyclerDecoration(Color.parseColor("#0000ff"),20))
-//2.横竖单独设置
-recyclerView.addItemDecoration(SimpleRecyclerDecoration(Color.parseColor("#ff0000"), Color.parseColor("#000000"),20, 40))
+//1.Horizontal and vertical are the same.
+recyclerView.addItemDecoration(SimpleRecyclerDecoration(Color.parseColor("#0000ff"), 20))
+//2.Different horizontal and vertical.
+recyclerView.addItemDecoration(SimpleRecyclerDecoration(Color.parseColor("#ff0000"), Color.parseColor("#000000"), 20, 40))
 ``` 
 
 # e.g.
