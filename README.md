@@ -30,7 +30,4 @@ recyclerView.addItemDecoration(SimpleRecyclerDecoration(Color.parseColor("#ff000
 ``` 
 
 # e.g.
-![image-1](https://github.com/WangFion/recycler-decoration/blob/master/image/device-1.png)
-![image-2](https://github.com/WangFion/recycler-decoration/blob/master/image/device-2.png)
-![image-3](https://github.com/WangFion/recycler-decoration/blob/master/image/device-3.png)
-![image-4](https://github.com/WangFion/recycler-decoration/blob/master/image/device-4.png)
+<img src="https://github.com/WangFion/recycler-decoration/blob/master/image/device-1.png" width="200"/>    <img src="https://github.com/WangFion/recycler-decoration/blob/master/image/device-2.png" width="200"/>    <img src="https://github.com/WangFion/recycler-decoration/blob/master/image/device-3.png" width="200"/>    <img src="https://github.com/WangFion/recycler-decoration/blob/master/image/device-4.png" width="200"/>
